@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I’m Bryan Yogie Saputra  
 
-<!--
-**Yogiexc/Yogiexc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Student at UNS  
+💻 Passionate about Web Development, UI/UX, and Software Engineering  
+🚀 Always eager to learn and build impactful tech solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats  
+![Yogie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogiexc&show_icons=true&theme=tokyonight)  
+
+📌 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogiexc&layout=compact&theme=tokyonight)  
+
+---
+
+🌐 Connect with me:  
+[LinkedIn](www.linkedin.com/in/bryan-yogie-264306270) | [Portfolio](https://github.com/Yogiexc/PortofolioProject) | [Email](mailto:bryanadzkia@gmail.com)  
