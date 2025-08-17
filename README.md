@@ -14,5 +14,25 @@
 
 ---
 
+### 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) 
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+
+...
+
+![snake gif](https://github.com/Yogiexc/Yogiexc/blob/output/github-contribution-grid-snake.svg)
+
+...
+
 🌐 Connect with me:  
 [LinkedIn](www.linkedin.com/in/bryan-yogie-264306270) | [Portfolio](https://github.com/Yogiexc/PortofolioProject) | [Email](mailto:bryanadzkia@gmail.com)  
+
+...
+
+### 🚀 Featured Projects
+- [Portofolio Project](https://github.com/Yogiexc/PortofolioProject) — Personal portfolio with React & Tailwind.
+- [Moonton Clone](https://github.com/Yogiexc/moonton) — UI slicing & dashboard project.
+
