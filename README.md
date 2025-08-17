@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Bryan Yogie Saputra  
 
 🎓 Informatics Student at UNS  
-💻 Passionate about Web Development, UI/UX, and Software Engineering  
+💻 Passionate about Computer Networking, Web Development, and Software Engineering  
 🚀 Always eager to learn and build impactful tech solutions  
 
 ...
