@@ -14,7 +14,8 @@
 
 
 📊 GitHub Stats  
-![Yogie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogiexc&show_icons=true&theme=tokyonight)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yogiexsaputra&theme=tokyonight)](https://git.io/streak-stats)
+
 
 📌 Top Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogiexc&layout=compact&theme=tokyonight)  
