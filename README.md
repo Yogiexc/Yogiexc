@@ -29,10 +29,9 @@
 🌐 Connect with me:  
 [LinkedIn](www.linkedin.com/in/bryan-yogie-264306270) | [Portfolio](https://github.com/Yogiexc/PortofolioProject) | [Email](mailto:bryanadzkia@gmail.com)  
 
-...
-
 ## 📊 GitHub Activity Graph
-[![Bryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yogiexc&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yogiexsaputra&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ##  Now Playing
 **Now Playing:**  *33x* — Perunggu
