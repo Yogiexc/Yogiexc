@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZsNXE4dTR5ZXhsNmZjYTlpd3B6NjBpYWR0czYwYXRpcmFobThuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LKNqU8ISdR7iw/giphy.gif" 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGwwdjd3Y3J6N2dhdHJhb3Fld2xiNmEyZmRmOXBkcXo0ZzZhcmV2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3s6inaVnOnO6L3vbwR/giphy.gif" 
        alt="Dave the Diver gif" 
        width="100%" />
 </p>
@@ -11,7 +11,7 @@
 💻 Passionate about Computer Networking, Web Development, and Software Engineering  
 🚀 Always eager to learn and build impactful tech solutions  
 
-...
+
 
 📊 GitHub Stats  
 ![Yogie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogiexc&show_icons=true&theme=tokyonight)  
