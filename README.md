@@ -1,4 +1,7 @@
-![Dave the Diver](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRxeHhucHN5d2J5M29pdW53OGpvbHZmeGF0Zm80eng3ZTZyamJseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/biKlyP98sCwG2JwZos/giphy.gif)
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRxeHhucHN5d2J5M29pdW53OGpvbHZmeGF0Zm80eng3ZTZyamJseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/biKlyP98sCwG2JwZos/giphy.gif" alt="Dave the Diver gif"/>
+</p>
+
 
 # 👋 Hi there, I’m Bryan Yogie Saputra  
 
