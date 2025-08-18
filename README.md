@@ -14,7 +14,7 @@
 
 
 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogiexc&layout=compact&theme=tokyonight)
+![Yogie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogiexc&show_icons=true&theme=tokyonight)  
 
 📌 Top Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogiexc&layout=compact&theme=tokyonight)  
