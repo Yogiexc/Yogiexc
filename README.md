@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGwwdjd3Y3J6N2dhdHJhb3Fld2xiNmEyZmRmOXBkcXo0ZzZhcmV2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3s6inaVnOnO6L3vbwR/giphy.gif" 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5wN2dwOTVsNzB5Znd2NGJ0NXRubWYxYmdhejNnYWZjdGp4dzYxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iiJ870TcI3PZKxatzS/giphy.gif" 
        alt="Dave the Diver gif" 
        width="100%" />
 </p>
