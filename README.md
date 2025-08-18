@@ -19,16 +19,12 @@
 📌 Top Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogiexc&layout=compact&theme=tokyonight)  
 
----
-
 ### 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-
-...
 
 🌐 Connect with me:  
 [LinkedIn](www.linkedin.com/in/bryan-yogie-264306270) | [Portfolio](https://github.com/Yogiexc/PortofolioProject) | [Email](mailto:bryanadzkia@gmail.com)  
@@ -38,20 +34,9 @@
 ## 📊 GitHub Activity Graph
 [![Bryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yogiexc&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-...
-
-## 🎮 Chill & Code
-<p align="center">
-  <img src="https://i.ibb.co/6F6z6zY/pixel-city.gif" alt="pixel art" width="100%" />
-</p>
-
-...
-
 ##  Now Playing
 **Now Playing:**  *33x* — Perunggu
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/0I3I9hgBRat6HR5Gzy26jx)
-
-...
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yogiexc&theme=radical&no-frame=true&no-bg=true&margin-w=4)
