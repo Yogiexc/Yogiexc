@@ -14,8 +14,7 @@
 
 
 📊 GitHub Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yogiexc&theme=tokyonight)](https://git.io/streak-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogiexc&layout=compact&theme=tokyonight)
 
 📌 Top Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogiexc&layout=compact&theme=tokyonight)  
