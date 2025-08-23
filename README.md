@@ -32,9 +32,10 @@
 ## 📊 GitHub Activity Graph
 [![Bryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yogiexc&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## Closing this out. The knight’s quest continues… 🛡️⚔️
 <p align="center">
   <img src="<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhuZGNxdTVxbWNzM2l2dmY3MmcyaXJtbWw1N25wdGFzaTlpMDJlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3kI4GksF9Qeb1gpZ9B/giphy.gif" 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpwaGM0eTE1dmxqbzhiaDJreXExc2VrdG01MmVueWo3eTI5ZmJ3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFYpnzqkofl6rXGFAC/giphy.gif" 
        alt="closing gif" 
        width="100%" />
 </p>
