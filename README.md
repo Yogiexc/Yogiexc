@@ -31,3 +31,13 @@
 
 ## 📊 GitHub Activity Graph
 [![Bryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yogiexc&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVrdTl2OXNnbHhkZWxoOG81cWV3bG4wMXJjdHp3cGM0YjR1MWNqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eLECN1sAEvzySERURD/giphy.gif" 
+       alt="Dave the Diver gif" 
+       width="100%" />
+</p>" 
+       alt="Dave the Diver gif" 
+       width="100%" />
+</p>
