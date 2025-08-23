@@ -37,5 +37,5 @@
   <img src="<p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpwaGM0eTE1dmxqbzhiaDJreXExc2VrdG01MmVueWo3eTI5ZmJ3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFYpnzqkofl6rXGFAC/giphy.gif" 
        alt="closing gif" 
-       width="100%" />
+       width="80%" />
 </p>
