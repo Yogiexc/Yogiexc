@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVrdTl2OXNnbHhkZWxoOG81cWV3bG4wMXJjdHp3cGM0YjR1MWNqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eLECN1sAEvzySERURD/giphy.gif" 
        alt="Dave the Diver gif" 
-       width="65%" />
+       width="100%" />
 </p>
 
 
