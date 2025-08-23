@@ -34,10 +34,7 @@
 
 <p align="center">
   <img src="<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVrdTl2OXNnbHhkZWxoOG81cWV3bG4wMXJjdHp3cGM0YjR1MWNqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eLECN1sAEvzySERURD/giphy.gif" 
-       alt="Dave the Diver gif" 
-       width="100%" />
-</p>" 
-       alt="Dave the Diver gif" 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhuZGNxdTVxbWNzM2l2dmY3MmcyaXJtbWw1N25wdGFzaTlpMDJlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3kI4GksF9Qeb1gpZ9B/giphy.gif" 
+       alt="closing gif" 
        width="100%" />
 </p>
