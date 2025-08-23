@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhxa3IyNDNoZjM3Yzd2Nm5qbW92NmE4amY1NWZkamE4OGs4dm1uYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LoBwYBdIztLgIYujMC/giphy.gif" 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBsM3Q4ZWkzdGRtMmpuYXJtMnp0cGVwMWhscHRwdWJqY3MybHE3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UFYD2rxZkTAaCBZ5VD/giphy.gif" 
        alt="Dave the Diver gif" 
        width="85%" />
 </p>
@@ -31,13 +31,3 @@
 
 ## 📊 GitHub Activity Graph
 [![Bryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yogiexc&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-##  Now Playing
-**Now Playing:**  *33x* — Perunggu
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/0I3I9hgBRat6HR5Gzy26jx)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yogiexc&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
