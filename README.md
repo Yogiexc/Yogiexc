@@ -9,9 +9,7 @@
 
 🎓 Informatics Student at UNS  
 🌱 Currently learning Web Development (still a beginner, but excited to grow)  
-💻 Interested in Computer Networking and how things work behind the scenes 
-🚀 Always eager to learn and build impactful tech solutions  
-
+💻 Interested in Computer Networking and how things work behind the scenes   
 
 
 📊 GitHub Stats  
