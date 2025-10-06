@@ -11,13 +11,8 @@
 🌱 Currently learning Web Development (still a beginner, but excited to grow)  
 💻 Interested in Computer Networking and how things work behind the scenes   
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yogiexc&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-
-📊 GitHub Stats  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yogiexc&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 ![Yogie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogiexc&show_icons=true&theme=tokyonight)  
-
-📌 Top Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogiexc&layout=compact&theme=tokyonight)  
 
 ### 🛠️ Tech Stack
