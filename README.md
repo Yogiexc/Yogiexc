@@ -42,21 +42,12 @@
 
 ---
 
-## 📊 GitHub Overview
+## 📈 Activity Graph
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Yogiexc&show_icons=true&theme=dark&hide_border=true"
-    height="170"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Yogiexc&theme=github-dark&hide_border=true"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogiexc&layout=compact&theme=dark&hide_border=true"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <i>Stats are used as a reference, consistency matters more than numbers.</i>
 </p>
 
 ---
