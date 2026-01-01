@@ -16,16 +16,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Yogiexc&theme=github-dark&hide_border=true"
-  />
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -48,14 +38,14 @@
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📈 GitHub Activity Grap
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Yogiexc&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true" 
-    alt="Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Yogiexc&theme=github-dark&hide_border=true"
   />
 </p>
+
 
 ---
 
