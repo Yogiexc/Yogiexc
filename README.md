@@ -61,20 +61,6 @@
 
 ---
 
-## 📁 Featured Projects
-
-- 🔹 **AI Photo Web**  
-  Learning project to understand frontend–backend interaction and image processing  
-  👉 https://github.com/Yogiexc/ai-photo-web
-
-- 🔹 **Portfolio Projects**  
-  Collection of small projects built during learning journey  
-  👉 https://github.com/Yogiexc/PortofolioProject
-
-> More projects will be added as I continue learning 🚧
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
