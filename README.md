@@ -101,10 +101,12 @@ philosophy: "Code with purpose, learn with consistency"
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Yogiexc/Yogiexc/output/github-contribution-grid-snake.svg"
-    alt="Snake eating my GitHub contributions"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Yogiexc/Yogiexc/snake/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Yogiexc/Yogiexc/snake/github-snake.svg"
+         alt="GitHub contribution snake" />
+  </picture>
 </div>
 
 ---
