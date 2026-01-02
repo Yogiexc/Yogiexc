@@ -82,19 +82,6 @@ philosophy: "Code with purpose, learn with consistency"
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yogiexc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yogiexc&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogiexc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -107,17 +94,6 @@ philosophy: "Code with purpose, learn with consistency"
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Yogiexc&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" width="100%" alt="Trophy"/>
-</div>
-
----
-
-## 🔥 Recent Projects
-
-<div align="center">
-
-[![Go REST API](https://github-readme-stats.vercel.app/api/pin/?username=Yogiexc&repo=go-simple-rest-api&theme=tokyonight&hide_border=true)](https://github.com/Yogiexc/go-simple-rest-api)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Yogiexc&repo=PortofolioProject&theme=tokyonight&hide_border=true)](https://github.com/Yogiexc/PortofolioProject)
-
 </div>
 
 ---
