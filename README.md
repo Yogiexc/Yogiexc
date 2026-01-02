@@ -1,7 +1,7 @@
 <div align="center">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 <!-- Header GIF -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzh1N25kdnRxOWVucjM4dDVwdnpjYnh6am9iZHZ3NnR6OXc3azJrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8CVpImg3MRGs0VFSk/giphy.gif" width="100%" alt="Retro Coding Banner"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzh1N25kdnRxOWVucjM4dDVwdnpjYnh6am9iZHZ3NnR6OXc3azJrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8CVpImg3MRGs0VFSk/giphy.gif" width="70%" alt="Retro Coding Banner"/>
 
 <!-- Animated Typing Effect -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Bryan+Yogie+Saputra;Informatics+Student+%40+UNS;Backend+Developer;System+Architecture+Enthusiast" alt="Typing SVG" /></a>
