@@ -111,35 +111,13 @@ philosophy: "Code with purpose, learn with consistency"
 
 ---
 
-## 🔥 Featured Projects
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Yogiexc/go-simple-rest-api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogiexc&repo=go-simple-rest-api&theme=tokyonight&hide_border=true" />
-      </a>
-      <br/>
-      <sub><b>🚀 Go REST API</b></sub>
-      <br/>
-      <sub>Full CRUD with Clean Architecture</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Yogiexc/PortofolioProject">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogiexc&repo=PortofolioProject&theme=tokyonight&hide_border=true" />
-      </a>
-      <br/>
-      <sub><b>💼 Portfolio Website</b></sub>
-      <br/>
-      <sub>Personal portfolio & projects showcase</sub>
-    </td>
-  </tr>
-</table>
+## 🔥 Recent Projects
 
 <div align="center">
-  
-  **Note:** *Jika card repo tidak muncul, berarti repo belum dibuat atau masih private. Push project kamu dulu ke GitHub!*
-  
+
+[![Go REST API](https://github-readme-stats.vercel.app/api/pin/?username=Yogiexc&repo=go-simple-rest-api&theme=tokyonight&hide_border=true)](https://github.com/Yogiexc/go-simple-rest-api)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Yogiexc&repo=PortofolioProject&theme=tokyonight&hide_border=true)](https://github.com/Yogiexc/PortofolioProject)
+
 </div>
 
 ---
@@ -162,16 +140,6 @@ const bryan = {
 
 ---
 
-## 🎵 Currently Vibing To
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31u5t636mljxqvxq43qfp6ovrwqq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31u5t636mljxqvxq43qfp6ovrwqq)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -180,7 +148,6 @@ const bryan = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://github.com/Yogiexc/PortofolioProject)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanadzkia@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yogiexc)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31u5t636mljxqvxq43qfp6ovrwqq)
 
 </div>
 
