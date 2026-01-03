@@ -110,6 +110,26 @@ philosophy: "Code with purpose, learn with consistency"
 </div>
 
 ---
+## 💼 What I'm Working On
+
+```javascript
+const bryan = {
+  pronouns: "He/Him",
+  code: ["Go", "JavaScript", "SQL"],
+  technologies: {
+    currentFocus: "Backend Development with Go",
+    learning: ["System Design", "Microservices", "Docker", "CI/CD"],
+    architecture: ["Clean Architecture", "Hexagonal", "DDD"]
+  },
+  challenges: {
+    goals2025: "Build 12+ production-ready projects",
+    contribution: "Open Source Advocate"
+  },
+  funFact: "I debug with console.log and I'm not ashamed 😄"
+};
+```
+
+---
 
 ## 🌐 Connect With Me
 
@@ -133,6 +153,7 @@ philosophy: "Code with purpose, learn with consistency"
 </div>
 
 ---
+
 
 <div align="center">
 
