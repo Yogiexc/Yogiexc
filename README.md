@@ -111,25 +111,6 @@ philosophy: "Code with purpose, learn with consistency"
 
 ---
 
-
-## 💼 What I'm Working On
-
-```javascript
-const bryan = {
-  currentFocus: "Backend Development with Go",
-  learning: ["System Design", "Microservices", "Docker", "CI/CD"],
-  goals2025: [
-    "Build 12+ production-ready projects",
-    "Contribute to open source",
-    "Master backend architecture patterns",
-    "Deploy scalable applications"
-  ],
-  funFact: "I debug with console.log and I'm not ashamed 😄"
-};
-```
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
