@@ -91,7 +91,7 @@ philosophy: "Code with purpose, learn with consistency"
 ---
 ## 🚀 Recent Projects
 
-### [FastAPI Monitoring Service](https://github.com/yourusername/fastapi-api-monitor)
+### [FastAPI Monitoring Service](https://github.com/Yogiexc/fastapi-api-monitor)
 Simple yet powerful API monitoring service built with FastAPI
 
 **Tech Stack:** FastAPI, SQLAlchemy, httpx, SQLite  
