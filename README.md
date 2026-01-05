@@ -89,11 +89,28 @@ philosophy: "Code with purpose, learn with consistency"
 </div>
 
 ---
+## 🚀 Recent Projects
 
+### [FastAPI Monitoring Service](https://github.com/yourusername/fastapi-api-monitor)
+Simple yet powerful API monitoring service built with FastAPI
+
+**Tech Stack:** FastAPI, SQLAlchemy, httpx, SQLite  
+**Features:** 
+- Async HTTP monitoring
+- Response time tracking
+- Health status detection
+- Pagination & filtering
+- Batch monitoring
+- Export functionality
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+
+---
 ## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yogiexc&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" width="100%" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Yogiexc&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
