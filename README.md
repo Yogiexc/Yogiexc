@@ -108,12 +108,6 @@ Simple yet powerful API monitoring service built with FastAPI
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
 
 ---
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yogiexc&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7&row=1" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
