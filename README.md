@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1395" height="958" alt="image" src="https://github.com/user-attachments/assets/f5ab1e54-72b6-44a9-93b4-27583c009145" /><div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 <!-- Header GIF -->
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzh1N25kdnRxOWVucjM4dDVwdnpjYnh6am9iZHZ3NnR6OXc3azJrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8CVpImg3MRGs0VFSk/giphy.gif" width="70%" alt="Retro Coding Banner"/>
