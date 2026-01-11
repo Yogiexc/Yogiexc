@@ -5,7 +5,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzh1N25kdnRxOWVucjM4dDVwdnpjYnh6am9iZHZ3NnR6OXc3azJrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8CVpImg3MRGs0VFSk/giphy.gif" width="70%" alt="Retro Coding Banner"/>
 
 <!-- Animated Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Bryan+Yogie+Saputra;Informatics+Student+%40+UNS;New+Learning+Fullstack+%26+System+Architect;Building+Scalable+Backend+Systems;Open+Source+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Bryan+Yogie+Saputra;Informatics+Student+%40+UNS;Learning+Fullstack+%26+System+Design;Building+Scalable+Backend+Systems;Open+Source+Enthusiast;In+progress%2C+not+in+a+rush" alt="Typing SVG" /></a>
 
 <!-- Badges -->
 <p>
@@ -20,7 +20,7 @@
 
 <!-- Social Links with Icons -->
 <p>
-  <a href="https://www.linkedin.com/in/bryan-yogie-264306270">
+  <a href="https://www.linkedin.com/in/bryan-yogie-saputra-264306270">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:yogiexsaputra@gmail.com">
@@ -28,6 +28,12 @@
   </a>
   <a href="https://github.com/Yogiexc/PortofolioProject">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://twitter.com/bryanyogiexc">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/yogiexct">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
@@ -39,13 +45,18 @@
 
 ```yaml
 name: Bryan Yogie Saputra
-location: Surakarta, Central Java, Indonesia 🇮🇩
-education: Informatics Engineering @ Universitas Sebelas Maret (UNS)
+pronouns: he/him
+location: Surakarta, Indonesia 🇮🇩 (Lat: -7.5690, Long: 110.8283)
+education: D3 Teknik Informatika @ Universitas Sebelas Maret (UNS)
+nim: V3424090
 role: Full-time Student | Part-time Builder | Future Backend Engineer
-currently_learning: [Go, System Design, Microservices, Cloud Architecture]
-interests: [Backend Development, System Architecture, DevOps, Open Source]
-philosophy: "Code with purpose, learn with consistency, build with passion"
+currently_learning: [Go, TypeScript, System Design, Microservices, Cloud Architecture]
+interests: [Learning we, System Architecture, DevOps, Open Source, Web Performance]
+philosophy: "In progress, not in a rush. Code with purpose, learn with consistency."
 fun_fact: "I debug with console.log and I'm proud of it 😄"
+repositories: 28
+followers: 12
+following: 10
 ```
 
 <details>
@@ -53,11 +64,12 @@ fun_fact: "I debug with console.log and I'm proud of it 😄"
 <br/>
 
 - 🎯 **Mission**: Building robust, scalable backend systems and understanding technology from the ground up
-- 🌱 **Learning Journey**: Started with PHP & JavaScript, now mastering Go and distributed systems
+- 🌱 **Learning Journey**: Started with PHP & JavaScript, now mastering Go, TypeScript, and distributed systems
 - 🧠 **Philosophy**: I don't just use tools — I understand how they work, why they exist, and when to use them
 - 📈 **Approach**: Treating GitHub as my public learning journal and portfolio combined
 - 💡 **Belief**: The best way to truly learn is by building, breaking, debugging, and rebuilding
 - 🔥 **2025 Goal**: Ship 12+ production-ready projects and contribute to open source
+- ⚡ **Motto**: "In progress, not in a rush" - consistent growth over quick wins
 
 </details>
 
@@ -78,15 +90,20 @@ fun_fact: "I debug with console.log and I'm proud of it 😄"
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-3D72D7?style=for-the-badge&logo=htmx&logoColor=white)
 
 ### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -101,19 +118,10 @@ fun_fact: "I debug with console.log and I'm proud of it 😄"
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-</div>
+### 🎮 Game Development & Other
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yogiexc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogiexc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogiexc&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -130,40 +138,226 @@ fun_fact: "I debug with console.log and I'm proud of it 😄"
 
 <div align="center">
 
-### 🔥 [FastAPI Monitoring Service](https://github.com/Yogiexc/fastapi-api-monitor)
+### 🎨 [Astro Landing Modern](https://github.com/Yogiexc/astro-landing-modern)
+**Modern landing page built with Astro framework**
+
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-green?style=flat)
+
+```
+✨ Modern, fast static site generation
+⚡ Optimized performance & SEO
+🎨 Beautiful UI/UX design
+```
+
+---
+
+### 🎯 [UI Animation Playground](https://github.com/Yogiexc/ui-animation-playground)
+**Experimental playground for CSS animations and transitions**
+
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-green?style=flat)
+
+```
+🎭 Advanced CSS animations
+💫 Smooth transitions & effects
+🎨 Interactive UI components
+```
+
+---
+
+### 🔍 [HTMX Go Live Search](https://github.com/Yogiexc/htmx-go-live-search)
+**Real-time search implementation with HTMX and Go**
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![HTMX](https://img.shields.io/badge/-HTMX-3D72D7?style=flat&logo=htmx&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-green?style=flat)
+
+```
+⚡ Real-time search without full page reload
+🔄 HTMX for dynamic HTML updates
+🎯 Go backend for fast responses
+```
+
+---
+
+### 📊 [Svelte Mini Dashboard](https://github.com/Yogiexc/svelte-mini-dashboard)
+**Mini dashboard exploring Svelte's compile-time reactivity**
+
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-green?style=flat)
+
+```
+⚡ Compile-time reactivity
+📊 Interactive data visualization
+🎨 Clean, minimal UI
+```
+
+---
+
+### 🔧 [PHP Native REST API](https://github.com/Yogiexc/php-native-rest-api)
+**Learn REST API fundamentals without framework**
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+```
+🎯 Pure PHP implementation
+📚 Educational REST API patterns
+🔐 Authentication & authorization
+```
+
+---
+
+### ⚙️ [Go Job Queue](https://github.com/Yogiexc/go-job-queue)
+**Simple Job Queue System with Worker Pool Pattern in Go**
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-green?style=flat)
+
+```
+⚡ Worker pool pattern implementation
+🔄 Concurrent job processing
+📊 Queue management system
+```
+
+---
+
+### 🔥 [FastAPI API Monitor](https://github.com/Yogiexc/fastapi-api-monitor)
 **Powerful API monitoring & health check service**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ```
 ✨ Async HTTP monitoring with response tracking
 ⚡ Real-time health status detection  
 📊 Advanced pagination & filtering
 🔄 Batch monitoring capabilities
-📤 Export functionality for reports
 ```
 
 ---
 
-### 💼 [Portfolio Project](https://github.com/Yogiexc/PortofolioProject)
-**Personal portfolio showcasing projects & skills**
+### 📈 [Node Trading Bot Simulator](https://github.com/Yogiexc/node-trading-bot-simulator)
+**Educational trading bot simulator for learning backend logic**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-green?style=flat)
+
+```
+📈 Trading algorithm simulation
+🎓 Educational backend patterns
+💹 Market data processing
+```
+
+---
+
+### 🔐 [CI4 Basic Auth](https://github.com/Yogiexc/ci4-basic-auth)
+**Authentication system with CodeIgniter 4**
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-green?style=flat)
+
+```
+🔐 Secure authentication system
+👤 User management
+🛡️ Password hashing & security
+```
+
+---
+
+### 🌐 [Go Simple REST API](https://github.com/Yogiexc/go-simple-rest-api)
+**Clean REST API implementation in Go**
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+```
+⚡ Fast, efficient API
+🎯 Clean architecture
+📊 CRUD operations
+```
+
+---
+
+### 🎮 [Roll-a-Ball Unity Learn](https://github.com/Yogiexc/Roll-a-Ball-Unity-Learn)
+**Learning Unity game development fundamentals**
+
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+
+```
+🎮 Unity fundamentals
+🎯 Physics & collision
+🎨 3D game mechanics
+```
+
+---
+
+### 🖥️ [ClassForm Product Dashboard](https://github.com/Yogiexc/classform-product-dashboard)
+**Product Dashboard with PHP OOP, PDO & MySQL**
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+```
+📊 Product CRUD operations
+🔐 Password hashing
+📝 Dynamic forms
+💾 JSON-based feature storage
+```
+
+---
+
+### 📚 [SewaBuku Project](https://github.com/Yogiexc/SewaBukuProject)
+**Book rental management system**
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+```
+📚 Book rental management
+👥 User management
+📊 Transaction tracking
+```
+
+---
+
+### 🎬 [Moonton](https://github.com/Yogiexc/moonton)
+**Streaming platform clone project**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![1 Star](https://img.shields.io/badge/Stars-1-yellow?style=flat)
+
+```
+🎬 Video streaming interface
+🎨 Modern UI/UX
+📱 Responsive design
+```
+
+---
+
+### 🐦 [ByteBird](https://github.com/Yogiexc/ByteBird)
+**Social media platform built with Vue.js**
+
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![1 Star](https://img.shields.io/badge/Stars-1-yellow?style=flat)
+
+```
+🐦 Social media features
+💬 Real-time interactions
+🎨 Vue.js frontend
+```
 
 ---
 
 <details>
-<summary>🔍 <b>View More Projects</b></summary>
+<summary>🔍 <b>View More Projects (Private Repositories)</b></summary>
 <br/>
 
-Coming soon! Currently building:
-- 🏗️ **Go REST API** - Clean architecture microservice
-- 🐳 **DevOps Pipeline** - CI/CD with Docker & GitHub Actions
-- 📱 **React Dashboard** - Admin panel with real-time data
+### 🔒 Private Projects
+- 🌿 **Cocorbebek Hijau Alam** - TypeScript project (Updated Jul 22, 2025)
+- 📅 **Jadwal Kita Organize** - TypeScript organization tool (Updated Jun 25, 2025)
+- 🐟 **Ikan Nusantara Jelajah** - TypeScript exploration app (Updated Jun 11, 2025)
+- 💰 **Crypto Sim Academy** - TypeScript crypto simulator (Updated Jun 9, 2025)
 
 </details>
 
@@ -187,39 +381,56 @@ Coming soon! Currently building:
 
 ```javascript
 const bryan = {
-  pronouns: "He/Him",
+  pronouns: "he/him",
   location: "Surakarta, Indonesia 🇮🇩",
+  coordinates: { lat: -7.5690, long: 110.8283 },
   
   code: {
-    primary: ["Go", "JavaScript", "SQL"],
-    learning: ["TypeScript", "Rust"],
-    exploring: ["System Design", "Microservices"]
+    primary: ["Go", "JavaScript", "TypeScript", "PHP", "SQL"],
+    learning: ["Rust", "Svelte", "Astro"],
+    exploring: ["System Design", "Microservices", "HTMX"]
   },
   
   technologies: {
-    backend: ["Go", "Node.js", "FastAPI", "Express"],
-    frontend: ["React", "Next.js", "TailwindCSS"],
-    databases: ["PostgreSQL", "MongoDB", "Redis"],
-    devops: ["Docker", "Linux", "Nginx", "Git"]
+    backend: ["Go", "Node.js", "FastAPI", "Express", "PHP Native"],
+    frontend: ["React", "Next.js", "Svelte", "Astro", "Vue.js", "HTMX"],
+    styling: ["TailwindCSS", "CSS3", "Bootstrap"],
+    databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+    devops: ["Docker", "Linux", "Nginx", "Git"],
+    gamedev: ["Unity"]
   },
   
   architecture: {
-    patterns: ["Clean Architecture", "Hexagonal", "MVC"],
+    patterns: ["Clean Architecture", "Hexagonal", "MVC", "Worker Pool"],
     principles: ["SOLID", "DRY", "KISS"],
-    focus: ["RESTful APIs", "Microservices", "Event-Driven"]
+    focus: ["RESTful APIs", "Microservices", "Event-Driven", "Job Queues"]
+  },
+  
+  education: {
+    university: "Universitas Sebelas Maret (UNS)",
+    program: "D3 Teknik Informatika",
+    nim: "V3424090"
   },
   
   currentChallenge: {
     goal2025: "Build 12+ production-ready projects",
     mission: "Master backend development & system design",
-    contribution: "Contribute to open source"
+    contribution: "Contribute to open source",
+    motto: "In progress, not in a rush"
   },
   
   workingOn: [
     "Building scalable Go microservices",
-    "Learning distributed systems",
+    "Exploring modern frontend frameworks (Svelte, Astro)",
+    "Learning distributed systems & job queues",
     "Contributing to open source projects"
   ],
+  
+  repositories: {
+    total: 28,
+    public: 24,
+    private: 4
+  },
   
   funFact: "I believe console.log is the best debugger 🐛"
 };
@@ -233,20 +444,34 @@ console.log("Let's build something amazing! 🚀");
 
 ```mermaid
 graph LR
-    A[Q1: Master Go] --> B[Q2: System Design]
-    B --> C[Q3: Microservices]
-    C --> D[Q4: Cloud & DevOps]
+    A[Q1: Master Go & TypeScript] --> B[Q2: System Design & Architecture]
+    B --> C[Q3: Microservices & Distributed Systems]
+    C --> D[Q4: Cloud & DevOps Mastery]
     
     A --> E[Build 3 Projects]
     B --> F[Build 3 Projects]
     C --> G[Build 3 Projects]
     D --> H[Build 3 Projects]
     
+    E --> I[Go APIs, HTMX Apps]
+    F --> J[Svelte/Astro Sites]
+    G --> K[Job Queues, Workers]
+    H --> L[Docker, CI/CD]
+    
     style A fill:#00ADD8
     style B fill:#61DAFB
     style C fill:#339933
     style D fill:#2496ED
 ```
+
+---
+
+## 📚 Learning Path 2025
+
+- ✅ **Q1 2025**: Go fundamentals, HTMX, Svelte, Astro
+- 🔄 **Q2 2025**: TypeScript mastery, System design patterns
+- 📋 **Q3 2025**: Microservices architecture, Message queues
+- 📋 **Q4 2025**: Cloud platforms (AWS/GCP), Kubernetes, CI/CD
 
 ---
 
@@ -266,16 +491,19 @@ graph LR
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-yogie-264306270)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-yogie-saputra-264306270)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogiexsaputra@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://github.com/Yogiexc/PortofolioProject)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yogiexc)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bryanyogiexc)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yogiexct)
 
 ### 📧 Reach out for:
 - 💼 Collaboration opportunities
 - 🤝 Open source contributions
-- 💡 Tech discussions
-- 🚀 Project ideas
+- 💡 Tech discussions & knowledge sharing
+- 🚀 Project ideas & partnerships
+- 🎓 Learning together
 
 </div>
 
@@ -290,6 +518,8 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <sub>⭐ If you like my work, consider giving a star to my repositories!</sub>
 
+<sub>📊 **28 Public Repositories** • 👥 **12 Followers** • 💻 **Actively Learning & Building**</sub>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
@@ -297,5 +527,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 ---
 
 <div align="center">
-  <sub>✨ Crafted with 💻 and ☕ by <a href="https://github.com/Yogiexc">@Yogiexc</a> • Last updated: January 2025</sub>
+  <sub>✨ Crafted with 💻 and ☕ by <a href="https://github.com/Yogiexc">@Yogiexc</a> • Last updated: January 12, 2025</sub>
+  <br/>
+  <sub>🌟 "In progress, not in a rush" - Building one commit at a time</sub>
 </div>
