@@ -5,7 +5,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzh1N25kdnRxOWVucjM4dDVwdnpjYnh6am9iZHZ3NnR6OXc3azJrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8CVpImg3MRGs0VFSk/giphy.gif" width="70%" alt="Retro Coding Banner"/>
 
 <!-- Animated Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Bryan+Yogie+Saputra;Informatics+Student+%40+UNS;Learning+Fullstack+%26+System+Design;Building+Scalable+Backend+Systems;Open+Source+Enthusiast;In+progress%2C+not+in+a+rush" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Bryan+Yogie+Saputra;Informatics+Student+%40+UNS;Just+Learning+to+Code+%26+System+Design;Building+Scalable+Backend+Systems;Open+Source+Enthusiast;In+progress%2C+not+in+a+rush" alt="Typing SVG" /></a>
 
 <!-- Badges -->
 <p>
@@ -49,7 +49,7 @@ pronouns: he/him
 location: Surakarta, Indonesia 🇮🇩 (Lat: -7.5690, Long: 110.8283)
 education: D3 Teknik Informatika @ Universitas Sebelas Maret (UNS)
 nim: V3424090
-role: Full-time Student | Part-time Builder | Future Backend Engineer
+role: Full-time Student | Part-time Builder | Just Learning to Code
 currently_learning: [Go, TypeScript, System Design, Microservices, Cloud Architecture]
 interests: [Learning we, System Architecture, DevOps, Open Source, Web Performance]
 philosophy: "In progress, not in a rush. Code with purpose, learn with consistency."
