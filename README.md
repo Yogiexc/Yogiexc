@@ -64,7 +64,7 @@ following: 10
 <br/>
 
 - 🎯 **Mission**: Building robust, scalable backend systems and understanding technology from the ground up
-- 🌱 **Learning Journey**: Started with PHP & JavaScript, now mastering Go, TypeScript, and distributed systems
+- 🌱 **Learning Journey**: Started with PHP & JavaScript
 - 🧠 **Philosophy**: I don't just use tools — I understand how they work, why they exist, and when to use them
 - 📈 **Approach**: Treating GitHub as my public learning journal and portfolio combined
 - 💡 **Belief**: The best way to truly learn is by building, breaking, debugging, and rebuilding
