@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://bryanyogie-dev-me.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=800&color=FF007F&center=true&vCenter=true&width=600&height=70&lines=%E2%96%B6+PRESS+START+TO+VIEW+PORTFOLIO;%E2%9C%A8+CLICK+HERE+TO+ENTER+MY+WORLD+" alt="Arcade Portfolio" />
+    <img src="https://img.shields.io/badge/PORTOFOLIO-FF007F?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2A001A" height="42" alt="Portofolio" />
   </a>
 </div>
 <p align="center">
