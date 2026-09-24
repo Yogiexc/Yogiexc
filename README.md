@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://bryanyogie-dev-me.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTOFOLIO-FF007F?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2A001A" height="42" alt="Portofolio" />
+    <img src="https://img.shields.io/badge/PORTOFOLIO-ff79bc?style=for-the-badge&logo=vercel&logoColor=white&labelColor=ff38b3" height="42" alt="Portofolio" />
   </a>
 </div>
 <p align="center">
