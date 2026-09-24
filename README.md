@@ -1,3 +1,6 @@
+<a href="https://bryanyogie-dev-me.vercel.app/" target="_blank">
+  👉 <b>Coba klik ini, portofolioku!</b>
+</a>
 <p align="center">
   <a href="https://github.com/Yogiexc?tab=followers">
     <img src="https://custom-icon-badges.demolab.com/github/followers/Yogiexc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
