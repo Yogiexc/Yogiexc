@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://bryanyogie-dev-me.vercel.app/" target="_blank">
+  <a href="https://bryanyogie.is-a.dev/" target="_blank">
     <img src="https://img.shields.io/badge/PORTOFOLIO-976d99?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6E536F" height="42" alt="Portofolio" />
   </a>
 </div>
